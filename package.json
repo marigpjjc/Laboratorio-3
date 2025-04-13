@@ -1,0 +1,19 @@
+{
+  "name": "laboratorio-3",
+  "version": "1.0.0",
+  "description": "App para mostrar códigos HTTP con gatos usando Web Components y TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode=development",
+    "build:watch": "webpack --watch --mode=development"
+  },
+  "keywords": [],
+  "author": "Tu Nombre",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-loader": "^9.5.2",
+    "typescript": "^5.8.3",
+    "webpack": "^5.99.5",
+    "webpack-cli": "^6.0.1"
+  }
+}
