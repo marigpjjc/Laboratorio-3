@@ -47,7 +47,7 @@ class AppContainer extends HTMLElement {
         }
       </style>  
     <section>
-        <h1>Razas de Perros</h1>
+        <h1>Dog breeds</h1>
         <div id="cards-container" style="display: flex; flex-wrap: wrap;"></div>
       </section>
     `;

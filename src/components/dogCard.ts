@@ -75,8 +75,8 @@ class DogCard extends HTMLElement {
         <img src="${imageUrl}" alt="${this.breed.name}" />
         <h3>${this.breed.name}</h3>
         <div class="details">
-          <p><strong>Temperamento:</strong> ${this.breed.temperament}</p>
-          <p><strong>Esperanza de vida:</strong> ${this.breed.life_span}</p>
+          <p><strong>Personality:</strong> ${this.breed.temperament}</p>
+          <p><strong>Life span:</strong> ${this.breed.life_span}</p>
         </div>
       </div>
     `;
